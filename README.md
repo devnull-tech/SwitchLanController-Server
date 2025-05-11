@@ -5,7 +5,7 @@
 - Maybe you will need to allow the incoming data for the 8765 port in your firewall ( or just disable it )
 - Don't close the application window to keep it running
 - This software are tested on Windows
-- Execute all the commands from a shell over the repo's directory
+- Execute all the commands from a shell over the project's directory
 ## Installing
 - Download and install python3 if you don't have it
 - Install venv using pip command line
